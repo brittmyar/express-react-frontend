@@ -12,7 +12,7 @@ import Projects from "./pages/Projects";
 
 function App() {
   // URL should have YOUR HEROKU URL for your backend, make sure you include the trailing slash
-  const URL = "https://dashboard.heroku.com/apps/my-portfolio-lab/deploy/github";
+  const URL = "https://my-portfolio-lab.herokuapp.com/";
 
   return (
     <div className="App">
